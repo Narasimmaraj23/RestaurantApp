@@ -62,7 +62,7 @@ const Header = () => {
             whileTap={{ scale: 0.6 }}
             className="text-headingColor text-xl font-bold"
           >
-            City
+            BiteHub
           </motion.p>
         </Link>
 
@@ -181,7 +181,7 @@ const Header = () => {
             whileTap={{ scale: 0.7 }}
             className="text-headingColor text-xl font-bold"
           >
-            City
+            BiteHub
           </motion.p>
         </Link>
         <div className="relative">

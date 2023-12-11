@@ -27,10 +27,9 @@ const HomeContainer = () => {
           </span>
         </p>
         <p className="text-base text-textColor text-center md:text-left md:w-[80%]">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus
-          aliquid ducimus quod, aliquam distinctio fugit exercitationem officia
-          ipsam perferendis sunt unde maiores? Veniam, voluptate? Exercitationem
-          necessitatibus iusto quaerat tempore cum.
+          Savor convenience with our cutting-edge food delivery app! Seamlessly
+          crafted with React and Firebase, enjoy swift, secure, and delightful
+          dining experiences at your fingertips.
         </p>
 
         <motion.button
@@ -66,7 +65,7 @@ const HomeContainer = () => {
                   {n.decp}
                 </p>
                 <p className="text-sm font-semibold text-headingColor">
-                  <span className="text-xs text-red-600 ">$</span>
+                  <span className="text-xs text-red-600 ">₹</span>
                   {n.price}
                 </p>
               </div>
